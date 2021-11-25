@@ -41,7 +41,6 @@
 - [Urdu](https://github.com/jwasham/coding-interview-university/issues/140)
 - [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
 - [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
-- [Italian](https://github.com/jwasham/coding-interview-university/issues/170)
 - [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
 - [Japanese (日本語)](https://github.com/jwasham/coding-interview-university/issues/257)
 
@@ -55,6 +54,22 @@
     <p>
         <strong>Special thanks to:</strong>
     </p>
+    <p>
+        <a href="https://simplify.jobs/?utm_source=github&utm_medium=coding-interview-university">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/simplify-logo.png" width="400"  alt="Simplify">
+            </div>
+            <div>
+                <p>
+                    <strong>Applying to jobs? Autofill all your applications in 1-click.</strong>
+                </p>
+            </div>
+            <div>
+                <sup>Stop manually re-entering your information. Simplify’s extension helps you autofill jobs &amp; internship applications on millions of sites.</sup>
+            </div>
+        </a>
+    </p>
+    <br />
     <p>
         <a href="https://oss.capital/">
             <div>
